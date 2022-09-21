@@ -1,26 +1,23 @@
 
+![image](https://m.media-amazon.com/images/S/aplus-media/sc/cd17fc5d-12b9-49e6-871f-f1f8281b17b1.__CR0,0,600,180_PT0_SX600_V1___.png)
 
- website![image](https://m.media-amazon.com/images/S/aplus-media/sc/cd17fc5d-12b9-49e6-871f-f1f8281b17b1.__CR0,0,600,180_PT0_SX600_V1___.png)
+<br>
 
 
 > Dot & Key is focused on providing a range of skincare so solutions. It offers premium skincare products such as serums, face masks, toners and cleansers. The brand recently expanded into nutraceuticals. The Indian unicorn Nykaa has now acquired dot and key.
 
-
 Myself and my team of 6 members have cloned the Dot and key website as project of our construct week at** Masai School**.
-> 
-> [Dot and key Website]()
- 
+
+<br>
+
+> [Dot and key Website](https://www.dotandkey.com) 
 
   
 # Technology
 
-
 - **Client:** HTML, CSS,JS
 - **Version control:** Git and GitHub.
 - **Server:** Netlify and Local storage
-
-
-
 
   
 ## Features
@@ -32,18 +29,19 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 ## Snapshots of the project
 
-1. This is a glimpse of the landing page
+1. This is a glimpse of the landing page.
 
 ![Image (1)](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.13.36%20PM.jpeg)
 
 *******************************************************************************
-2. This the navigation bar.
 
-![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.18.27%20PM.jpeg)
+2. This is a glimpse of the hamburger navigation bar.
+
+![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-21%20at%2011.04.50%20AM.png)
 
 *******************************************************************************
 
-3. This is the Signup and sign-in page
+3. These are the Signup and sign-in pages.
     
 ![Signup](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.14.26%20PM.jpeg)
 
@@ -51,7 +49,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 *******************************************************************************
 
-4. This is a glimpse of the skin care and body care pages
+4. This are a few glimpses of the skin care and body care pages.
     
 ![skinCare](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.15.23%20PM.jpeg)
 
@@ -74,6 +72,12 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 ***********************************************************************
 
+6. This the footer section.
+
+![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.18.27%20PM.jpeg)
+
+***********************************************************************
+
  
 ## Demo
 
@@ -86,7 +90,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 ## Authors
 
 #### Sagar Suryawanshi
->Github: [Sammyak555](https://github.com/Sammyak555)
+>Github: []()
 worked on navigation bar
 
 #### Afzhal Ahmed S
@@ -94,19 +98,19 @@ worked on navigation bar
 Worked on home page
 
 #### Nishant Kumar
->Github: [Suresh170411](https://github.com/Suresh170411)
+>Github: []()
 worked on haircare and bodycare page
 
 #### Surjeet Singh
->Github: [saurabhpawar1997](http://saurabhpawar1997/)
+>Github: []()
 worked on signup and sign-in page only
 
 #### Vicky D
->Github: [saurabhpawar1997](http://saurabhpawar1997/)
+>Github: []()
 worked on purchase section pages
 
 #### Abishek Kumar
->Github: [saurabhpawar1997](http://saurabhpawar1997/)
+>Github: []()
 worked on footer section and assisted purchase section pages.
 
 
