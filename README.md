@@ -83,7 +83,8 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
 
 >Link - [Dot and key clone](https://earnest-piroshki-3f1460.netlify.app/)
 
->Project demonstration link - [https://drive.google.com/file/d/1Rq_h8vo81XOSK5Yw3aOd88IK-7VLNePf/view]
+>Project demonstration link- 
+<a href="https://drive.google.com/file/d/1Rq_h8vo81XOSK5Yw3aOd88IK-7VLNePf/view">click here</a>
 
 
   
