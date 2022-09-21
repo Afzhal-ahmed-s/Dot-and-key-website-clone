@@ -15,7 +15,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
   
 # Technology
 
-- **Client:** HTML, CSS,JS
+- **Client:** HTML, CSS and JS.
 - **Version control:** Git and GitHub.
 - **Server:** Netlify and Local storage
 
