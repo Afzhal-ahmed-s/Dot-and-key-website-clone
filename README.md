@@ -6,7 +6,7 @@
 
 > Dot & Key is focused on providing a range of skincare so solutions. It offers premium skincare products such as serums, face masks, toners and cleansers. The brand recently expanded into nutraceuticals. The Indian unicorn Nykaa has now acquired dot and key.
 
-Myself and my team of 6 members have cloned the Dot and key website as project of our construct week at** Masai School**.
+The Dot and key website has been cloned by myself and my team of 6 members as project of our construct week at **Masai School**.
 
 <br>
 
@@ -15,9 +15,9 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
   
 # Technology
 
-- **Client:** HTML, CSS and JS.
-- **Version control:** Git and GitHub.
-- **Server:** Netlify and Local storage
+- **Front-end: ** HTML, CSS and JS.
+- **Version control: ** Git and GitHub.
+- **Hosting: ** Netlify and Local storage
 
   
 ## Features
@@ -29,19 +29,19 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 ## Snapshots of the project
 
-1. This is a glimpse of the landing page.
+1. Landing page.
 
 ![Image (1)](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.13.36%20PM.jpeg)
 
 *******************************************************************************
 
-2. This is a glimpse of the hamburger navigation bar.
+2. Hamburger navigation bar.
 
 ![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-21%20at%2011.04.50%20AM.png)
 
 *******************************************************************************
 
-3. These are the Signup and sign-in pages.
+3. Signup and sign-in pages.
     
 ![Signup](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.14.26%20PM.jpeg)
 
@@ -49,7 +49,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 *******************************************************************************
 
-4. This are a few glimpses of the skin care and body care pages.
+4. Skin care and Body care pages.
     
 ![skinCare](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.15.23%20PM.jpeg)
 
@@ -57,7 +57,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 *******************************************************************************
 
-5. These are a few glimpses of the purchase pages flow.
+5. Purchase pages flow.
    
 ![cart](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.16.33%20PM.jpeg)
 
@@ -72,7 +72,7 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 ***********************************************************************
 
-6. This the footer section.
+6. Footer section.
 
 ![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.18.27%20PM.jpeg)
 
