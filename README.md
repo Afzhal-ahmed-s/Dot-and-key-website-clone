@@ -15,9 +15,9 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
   
 # Technology
 
-- **Front-end: ** HTML, CSS and JS.
-- **Version control: ** Git and GitHub.
-- **Hosting: ** Netlify and Local storage
+- **Front-end:** HTML, CSS and JS.
+- **Version control:** Git and GitHub.
+- **Hosting:** Netlify
 
   
 ## Features
@@ -29,19 +29,19 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
 
 ## Snapshots of the project
 
-1. Landing page.
+1. Landing page
 
 ![Image (1)](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.13.36%20PM.jpeg)
 
 *******************************************************************************
 
-2. Hamburger navigation bar.
+2. Hamburger navigation bar
 
 ![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-21%20at%2011.04.50%20AM.png)
 
 *******************************************************************************
 
-3. Signup and sign-in pages.
+3. Signup and sign-in pages
     
 ![Signup](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.14.26%20PM.jpeg)
 
@@ -49,7 +49,7 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
 
 *******************************************************************************
 
-4. Skin care and Body care pages.
+4. Skin care and Body care pages
     
 ![skinCare](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.15.23%20PM.jpeg)
 
@@ -57,7 +57,7 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
 
 *******************************************************************************
 
-5. Purchase pages flow.
+5. Purchase pages flow
    
 ![cart](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.16.33%20PM.jpeg)
 
@@ -72,7 +72,7 @@ The Dot and key website has been cloned by myself and my team of 6 members as pr
 
 ***********************************************************************
 
-6. Footer section.
+6. Footer section
 
 ![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.18.27%20PM.jpeg)
 
