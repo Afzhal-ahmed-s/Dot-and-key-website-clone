@@ -32,60 +32,54 @@ Myself and my team of 6 members have cloned the Dot and key website as project o
 
 ## Snapshots of the project
 
-   1. This is the landing page
+1. This is a glimpse of the landing page
 
-![Image (1)](https://drive.google.com/file/d/1_d3lQVvSRUFD5JKq3gbHwBKy5L-h5tGm/view?usp=sharing)
-![](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.13.36%20PM.jpeg)
+![Image (1)](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.13.36%20PM.jpeg)
 
-![](https://github.com/Mozakir178/Mytheresa.com-Clone/blob/main/mytherasa.jpg)
+*******************************************************************************
+2. This the navigation bar.
+
+![navBar](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.18.27%20PM.jpeg)
+
 *******************************************************************************
 
-![Image (2)](https://miro.medium.com/max/875/1*T3xZx2G1r7OJhafRFwZwlw.png)
-
-
-
-2. This is the Signup and sign-in page
+3. This is the Signup and sign-in page
     
-![Signup](https://miro.medium.com/max/875/1*EvjBBKzEHTadwNFW3htYpg.png)
+![Signup](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.14.26%20PM.jpeg)
 
+![SignIn](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.14.43%20PM.jpeg)
 
-   3.*This is the login page where travellers can enter their credentials and it will be matched by the credentials provided in the signup page. If it is correct it will redirect to the home page. Else it will show the alert to enter the valid credentials. 
+*******************************************************************************
+
+4. This is a glimpse of the skin care and body care pages
     
-![image](https://miro.medium.com/max/875/1*Id06dWN-Yy2DGxJM1HQdiw.png)
+![skinCare](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.15.23%20PM.jpeg)
 
+![bodyCare](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.15.52%20PM.jpeg)
 
+*******************************************************************************
 
-   4.*This is More travels, where travellers can find all the details .
+5. These are a few glimpses of the purchase pages flow.
    
-![image](https://miro.medium.com/max/875/1*tkwNrZgmnNurdRXKX2nz3g.png)
+![cart](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.16.33%20PM.jpeg)
 
+![information](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.16.42%20PM.jpeg)
 
+![shipping](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.16.53%20PM.jpeg)
+
+![OTP](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.17.21%20PM.jpeg)
    
-    
-   5. You can get otp by your number for easy access .
-![image](https://miro.medium.com/max/875/1*-L3fwe4HXIoNEAwAqAVUKA.png)
+![orderPlaced](https://github.com/Afzhal-ahmed-s/Unit-2-project--Dot-and-key-/blob/main/Unit-2-Project-repo-main-afz/croppedSnapshots/Screenshot%202022-09-20%20at%209.17.46%20PM.jpeg)
 
-    
-
-  
- 
-
-   6. Here you can find or discover new places and experiences
-![image](https://miro.medium.com/max/875/1*qv4iNwvA9Sue6w5AiZlo-Q.png)
 
 ***********************************************************************
 
-
-
-BLOG LINK> [Blog on Expedia Travel] (https://medium.com/@rubynarwal21/clone-of-expedia-website-61a5bceade2)
-
-
  
-
-  
 ## Demo
 
->Link - [Expedia Travel]()
+>Link - [Dot and key clone](https://earnest-piroshki-3f1460.netlify.app/)
+
+>Project demonstration link - [https://drive.google.com/file/d/1Rq_h8vo81XOSK5Yw3aOd88IK-7VLNePf/view]
 
 
   
